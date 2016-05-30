@@ -37,7 +37,7 @@ Using pinyin-text-view library
 ```
 
 ### Setp 3. ###
-  Find `PinyinTextView` in Activity or Fragment, adn set the data to display.
+  Find `PinyinTextView` in Activity or Fragment, and set the data to display.
 ```java
   mPinyinTextView = (PinyinTextView) findViewById(R.id.pinyin_text_view);
   
@@ -70,9 +70,9 @@ How this porject is designed.
 
 LICENSE
 -------------------------
-[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+[Apache License, Version 2.0](https://github.com/titanseason/pinyin-text-view/blob/master/LICENSE)
 ```
-Copyright [uudove .inc]
+Copyright [uudove]
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.

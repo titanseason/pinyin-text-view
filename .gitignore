@@ -33,3 +33,6 @@ captures/
 
 # intellij idea file
 .idea/
+
+# auto generated .iml
+**.iml
