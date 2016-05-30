@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pinyin-text-view</string>
+    <string name="pinyin_text_btn">Pinyin and Text</string>
+    <string name="plain_text_btn">Plain Text</string>
+</resources>

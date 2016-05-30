@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.uudove.pinyin.demo.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/pinyin_text_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/pinyin_text_btn" />
+
+        <Button
+            android:id="@+id/plain_text_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/plain_text_btn" />
+    </LinearLayout>
+
+    <com.uudove.pinyin.widget.PinyinTextView
+        android:id="@+id/pinyin_text_view"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="#e0e0e0"
+        android:horizontalSpacing="10dp"
+        android:textColor="#000000"
+        android:textColorHint="#666666"
+        android:textSize="20sp"
+        android:verticalSpacing="10dp" />
+</LinearLayout>
