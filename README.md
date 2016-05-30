@@ -22,7 +22,7 @@ Using pinyin-text-view library
   [here]: https://github.com/titanseason/pinyin-text-view/raw/master/doc/release/pinyin-text-view-release-1.0.0.jar
 
 ### Setp 2. ###
-  Define `PinyinTextView` in layout xml. If you don't understand what are the attributes mean, see [How this porject is designed](#How this porject is designed.)
+  Define `PinyinTextView` in layout xml. If you don't understand what are the attributes mean, see [How this porject is designed](#how-this-porject-is-designed)
 ```xml
   <com.uudove.pinyin.widget.PinyinTextView
       android:id="@+id/pinyin_text_view"
@@ -65,3 +65,24 @@ Using pinyin-text-view library
 How this porject is designed.
 -------------------------
 ![](https://github.com/titanseason/pinyin-text-view/raw/master/doc/image/pinyin-text-view.jpg)  
+
+
+
+LICENSE
+-------------------------
+[Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0)
+```
+Copyright 2015 Asha
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+   http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+```
