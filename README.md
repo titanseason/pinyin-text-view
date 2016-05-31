@@ -11,14 +11,14 @@ Using pinyin-text-view library
 -----------------------
 ### Step 1. ###
 * If you are using `Android Studio`:<br>
-  Add the following line to the dependencies section of your `build.gradle` file:
+    Add the following line to the dependencies section of your `build.gradle` file:
   ```gradle
   compile 'com.uudove.lib:pinyin-text-view:X.X.X'
   ```
   where `X.X.X` is the your preferred version. (Now there is no release)
 
-* If you are using `Eclipse`:
-  Download the latest release [here][], and add the jar to `libs` directory.
+* If you are using `Eclipse`:<br>
+    Download the latest release [here][], and add the jar to `libs` directory.
   [here]: https://github.com/titanseason/pinyin-text-view/raw/master/doc/release/pinyin-text-view-release-1.0.0.jar
 
 ### Setp 2. ###
