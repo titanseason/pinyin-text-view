@@ -1,4 +1,4 @@
-pinyin-text-view 
+Pinyin-text-view 
 ========================
 
 Pinyin-text-view is a library to display pinyin and text to users.
@@ -15,11 +15,10 @@ Using pinyin-text-view library
   ```gradle
   compile 'com.uudove.lib:pinyin-text-view:X.X.X'
   ```
-  where `X.X.X` is the your preferred version. (Now there is no release)
+  where `X.X.X` is the your preferred version. (Now there is no release, please use the source code)
 
 * If you are using `Eclipse`:<br>
-    Download the latest release [here][], and add the jar to `libs` directory.
-  [here]: https://github.com/titanseason/pinyin-text-view/raw/master/doc/release/pinyin-text-view-release-1.0.0.jar
+    Download the source code.
 
 ### Setp 2. ###
   Define `PinyinTextView` in layout xml. If you don't understand what are the attributes mean, see [How this porject is designed](#how-this-porject-is-designed)
