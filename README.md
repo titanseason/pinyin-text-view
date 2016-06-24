@@ -63,6 +63,7 @@ Using pinyin-text-view library
   
 How this porject is designed.
 -------------------------
+The rects below is just for debug, they won't be drawn in release mode.
 ![](https://github.com/titanseason/pinyin-text-view/raw/master/doc/image/pinyin-text-view.jpg)  
 
 
